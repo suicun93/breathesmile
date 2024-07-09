@@ -1,0 +1,702 @@
+/*
+
+Theme Name: Avada Child
+
+Description: Child theme for Avada theme
+
+Author: ThemeFusion
+
+Author URI: https://theme-fusion.com
+
+Template: Avada
+
+Version: 1.0.0
+
+Text Domain:  Avada
+
+*/
+
+
+
+h2 {
+
+	line-height: 48px !important;
+
+}
+
+h3 {
+
+	font-weight: bold !important;
+
+}
+
+.fusion-main-menu {
+
+	margin-top: 70px;
+
+}
+
+
+
+.fusion-alert {
+
+	text-transform: none;
+
+}
+
+
+
+.fusion-sticky-shadow .fusion-main-menu {
+
+	margin-top: 0;
+
+}
+
+/* Recaptcha styling */
+.g-recaptcha {
+	transform:scale(0.77);
+	-webkit-transform:scale(0.77);
+	transform-origin:0 0;
+	-webkit-transform-origin:0 0;}
+}
+
+
+/* Main page 'What We Offers' area */
+
+.content-box-offers-list {
+
+	margin-bottom: 0 !important;
+
+}
+
+
+
+.content-box-offers-list  > .fusion-column {
+
+	margin-bottom: 20px !important;
+
+}
+
+
+
+.content-box-offers-list > div > .content-wrapper-background {
+
+	padding: 15px 50px;
+
+	border-radius: 0 60px;
+
+}
+
+
+
+.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading h2{
+
+	color: #ffffff !important;
+
+}
+
+
+
+.wpcf7-form .wpcf7-response-output {
+
+	text-transform: none;
+
+}
+
+
+
+h2.content-box-heading {
+
+	font-weight: bold !important;
+
+	line-height: 23px !important;
+
+}
+
+
+
+.no-padding {
+
+	padding-top: 0 !important;
+
+	padding-bottom: 0 !important;
+
+}
+
+
+
+.charity-h2 {
+
+	width: 75%;
+
+}
+
+
+
+/******************************************/
+
+
+
+/* Homepage "upcoming programs" */
+
+.upcoming-item {
+
+
+
+}
+
+/********************************************/
+
+
+
+/* Subscribe form */
+
+.form-button {
+
+	background-color: rgba(24,169,185,1) !important;
+
+    color: #FFFDFD !important;
+
+    border-style: solid !important;
+
+    border-color: rgba(255,253,253,1) !important;
+
+    line-height: 8px !important;
+
+}
+
+
+
+.subscribe-form {
+
+	padding:10px 15px !important;
+
+	width: 50% !important;
+
+	color: #ffffff !important;
+
+	background-color: #b0b0b0 !important;
+
+}
+
+
+
+.form-button-wrap {
+
+	margin-bottom: 0 !important;
+
+}
+
+
+
+.subscribe-form-title {
+
+	color: white !important;
+
+	margin-bottom: 0 !important;
+
+	margin-top: 0 !important;
+
+}
+
+.form-sex-sel {
+	width: 20% !important;
+}
+
+.post-content p {
+	margin-bottom: 10px;
+}
+
+select {
+	color: #000 !important;
+}
+
+#comment-input .placeholder, #comment-input input, #comment-textarea .placeholder, #comment-textarea textarea, #wrapper .search-table .search-field input, .avada-select .select2-container .select2-choice, .avada-select .select2-container .select2-choice2, .avada-select-parent select, .chzn-container .chzn-drop, .chzn-container-single .chzn-single, .comment-form-comment textarea, .input-text, .main-nav-search-form input, .post-password-form label input[type="password"], .search-page-search-form input, .wpcf7-captchar, .wpcf7-form .wpcf7-date, .wpcf7-form .wpcf7-number, .wpcf7-form .wpcf7-quiz, .wpcf7-form .wpcf7-select, .wpcf7-form .wpcf7-text, .wpcf7-form textarea, .wpcf7-select-parent .select-arrow, input.s, input.s .placeholder, input[type="text"], select, textarea {
+	color: #000 !important;
+}
+
+/******************************************/
+
+
+
+/* About us */
+
+.about-us-top {
+
+	margin-top: 100px;
+
+}
+
+
+
+.about-us-top-en {
+
+	margin-top: 50px !important;
+
+}
+
+/*******************************************/
+
+/* Music box */
+
+.music-box {
+
+	margin-top:10px !important;
+
+}
+
+/*******************************************/
+
+
+
+/*Main*/
+
+#main {
+
+	padding-top: 0 !important;
+
+	padding-bottom: 0 !important;
+
+}
+
+/*******************************************/
+
+
+
+/* Image classe*/
+
+.image-float-left {
+
+	float: left;
+
+}
+
+.image-margin-right {
+
+	margin-right: 10px;
+
+}
+
+/*********************************************8/
+
+
+
+/* Clear both */
+
+.bs-clear {
+
+	margin-bottom:20px;
+
+	clear:both;
+
+}
+
+/**************************************************/
+
+
+
+/* Contact Us */
+
+#contact-us-box > h2 {
+
+	color: white !important;
+
+	font-size: 28px !important;
+
+	margin-bottom: 0 !important;
+
+	line-height: 27px !important;
+
+}
+
+
+
+#contact-us-box > h4 {
+
+	margin-top: 0 !important;
+
+}
+
+
+
+#contact-us-box > p {
+
+	font-size: 24px !important;
+
+	line-height: 24px !important;
+
+}
+
+
+
+#contact-desc-hour > p {
+
+	font-size: 24px !important;
+
+	line-height: 24px !important;
+
+}
+
+
+
+#contact-desc-hour > div {
+
+	width: 49% !important;
+
+	display: inline-block;
+
+}
+
+
+
+#contact-desc-hour > h1 {
+
+	color: #8A2899 !important;
+
+}
+
+
+
+#contact-desc-hour > p {
+
+	font-size: 24px !important;
+
+	line-height: 32px !important;
+
+}
+
+
+
+#contact-desc-hour > h4 {
+
+	line-height: 30px;
+
+}
+
+
+
+#contact-desc-hour > hr {
+
+	margin: 30px 0 !important;
+
+}
+
+/**************************************************/
+
+
+
+/* Profile image - Meet the Staff */
+
+.profile-img {
+
+	padding: 10px 35px 0 !important;
+
+}
+
+/***************************************************/
+
+
+
+/* What we offer page */
+
+.what-we-offer-row {
+
+	border: 1px solid #eae9e9 !important;
+
+	padding: 20px !important;
+
+	margin-bottom: 10px;
+
+}
+
+
+
+/***************************************************/
+
+
+
+/* Mindfulness workshop page */
+
+.mindfulness-workshop-box {
+
+	border: 1px solid #eae9e9 !important;
+
+}
+
+.mindfulness-workshop-boxtext {
+
+	margin-top: 20px;
+
+	padding: 0 10px 10px;
+
+}
+
+/*****************************************************/
+
+
+
+/* Subscribe form */
+
+.wpcf7-form .wpcf7-mail-sent-ok {
+
+    background-color: #ffffa0 !important;
+
+    border: 1px solid #000 !important;
+
+    color: #000 !important;
+
+}
+
+
+
+.wpcf7-form .wpcf7-mail-sent-ok > .alert-icon {
+
+	color: #468847 !important;
+
+}
+
+.form-sex-sel {
+	width: 40% !important;
+}
+
+/******************************************************/
+
+
+
+/* Language selection */
+
+#lang_sel_list {
+
+	position: absolute;
+
+    float: right;
+
+    top: 15px;
+
+    right: 0;
+
+    font-family: 'Hind', Arial, Helvetica, sans-serif;
+
+}
+
+
+
+#lang_sel_list a{
+
+	font-size: 16px;
+
+}
+
+
+
+#lang_sel_list a:hover {
+
+	color: #67b7e1;
+
+}
+
+
+
+#lang_sel_list_mobile {
+
+	display: none;
+
+}
+
+/******************************************************/
+
+/* Event page */
+.program-info {
+	border-radius: 20px 20px;
+	background-color: rgba(254, 240, 169, 1);
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.program-info table {
+	margin-bottom: 20px;
+}
+
+/*********************************************************/
+
+
+
+/* width < 800px */
+
+@media only screen and (max-width: 800px) {
+
+	.h3-small-bottom {
+
+		margin-bottom: 0.3em !important;
+
+	}
+
+
+
+	.subscribe-form {
+
+		width: 100% !important;
+
+	}
+
+
+
+	.music-box {
+
+		width: 100% !important;
+
+	}
+
+
+
+	.home-title > h1 {
+
+		margin-top: 10px !important;
+
+		margin-bottom: 0 !important;
+
+	}
+
+
+
+	.home-title-container {
+
+		margin-bottom: 0 !important;
+
+	}
+
+
+
+	.charity-h2 {
+
+		width: 100%;
+
+	}
+
+	
+
+	/* About us */
+
+	.about-us-top {
+
+		margin-top: 0;
+
+	}
+
+
+
+	.about-us-top-en {
+
+		margin-top: 0 !important;
+
+	}
+
+	.about-us-top > h2 {
+
+		font-size: 24px !important;
+
+		line-height: 32px !important;
+
+	}
+
+
+
+	.about-us-top-container {
+
+		margin-bottom: 0 !important;
+
+	}
+
+
+
+	.fusion-logo {
+
+		width: 70%;
+
+	}
+
+	/*******************************************/
+
+
+
+	/* Homepage "upcoming programs" */
+
+	.upcoming-item > p > img, .upcoming-item > img {
+
+		width: 100% !important;
+
+		margin-bottom: 10px !important;
+
+		padding: 0 20% !important;
+
+	}
+
+	/********************************************/
+
+
+
+	/* Profile image - Meet the Staff */
+
+	.profile-img {
+
+		margin: 0px 10% !important;
+
+	}
+
+	/***************************************************/
+
+
+
+	/* Language selector mobile */
+
+	#lang_sel_list {
+
+		display: none;
+
+	}
+
+	#lang_sel_list.lang_sel_list_mobile {
+
+		display: inline-block !important;
+
+		margin-right: 8px;
+
+		top: 15px;
+
+		position: relative;
+
+		float: none;
+
+		right: 0;
+
+	}
+
+
+
+	.fusion-mobile-menu-icons a {
+
+	    float: none;
+
+	    font-size: 21px;
+
+	    margin-left: 0;
+
+	}
+
+	/************************************************/
+
+
+
+	/* Mindfulness workshop */
+
+	.mindful-workshop-img {
+
+		display: block;
+
+		width:75%;
+
+		margin: 10px auto 0;
+
+	}
+
+}

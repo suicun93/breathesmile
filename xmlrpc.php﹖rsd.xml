@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://breathesmile.org</homePageLink>
+		<homePageLink>https://breathesmile.vn</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://breathesmile.org/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://breathesmile.org/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://breathesmile.org/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://breathesmile.org/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://breathesmile.org/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://breathesmile.vn/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://breathesmile.vn/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://breathesmile.vn/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://breathesmile.vn/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://breathesmile.vn/wp-json/" />
 			</apis>
 	</service>
 </rsd>
